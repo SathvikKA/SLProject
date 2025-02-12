@@ -11,6 +11,7 @@ import streamlit as st
 
 # Initialize OpenAI client
 client = OpenAI()
+#hello
 
 # Set up Streamlit page config
 st.set_page_config(page_title="ASL Sign Detector", page_icon="👋", layout="wide")
