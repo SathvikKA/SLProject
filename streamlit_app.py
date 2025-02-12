@@ -10,7 +10,7 @@ from typing import List, Dict
 import streamlit as st
 
 # Initialize OpenAI client
-client = OpenAI()
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 #hello
 
 # Set up Streamlit page config
