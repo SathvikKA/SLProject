@@ -1,0 +1,548 @@
+{
+    "hello": {
+        "description": "Wave hand near face",
+        "handshape": "Open hand",
+        "location": "Face level",
+        "hands": 1
+    },
+    "thank": {
+        "description": "Flat hand from chin moving forward",
+        "handshape": "Flat palm",
+        "location": "Chin",
+        "hands": 1
+    },
+    "please": {
+        "description": "Flat hand circling on chest",
+        "handshape": "Flat palm",
+        "location": "Chest",
+        "hands": 1
+    },
+    "yes": {
+        "description": "Move hand up and down like nodding",
+        "handshape": "S-hand",
+        "location": "Neutral space near shoulder",
+        "hands": 1
+    },
+    "no": {
+        "description": "Fingers and thumb close together twice",
+        "handshape": "S-hand",
+        "location": "Near face or neutral space",
+        "hands": 1
+    },
+    "friend": {
+        "description": "Hook index fingers and alternate linking them",
+        "handshape": "1-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "love": {
+        "description": "Cross arms over chest as though hugging yourself",
+        "handshape": "S-hand",
+        "location": "Chest",
+        "hands": 1
+    },
+    "sorry": {
+        "description": "Circular motion on chest with a closed fist",
+        "handshape": "S-hand",
+        "location": "Chest",
+        "hands": 1
+    },
+    "eat": {
+        "description": "Tap lips with tips of fingers",
+        "handshape": "O-hand",
+        "location": "Mouth",
+        "hands": 1
+    },
+    "drink": {
+        "description": "Tilt a hand shaped like holding a cup near your mouth",
+        "handshape": "C-hand",
+        "location": "Mouth",
+        "hands": 1
+    },
+    "school": {
+        "description": "Clap hands together twice, with palms flat and perpendicular",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "work": {
+        "description": "Tap one fist onto the back of the other hand twice",
+        "handshape": "S-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "mother": {
+        "description": "Place thumb of open hand on chin with fingers spread",
+        "handshape": "Open hand",
+        "location": "Chin",
+        "hands": 1
+    },
+    "father": {
+        "description": "Place thumb of open hand on forehead with fingers spread",
+        "handshape": "Open hand",
+        "location": "Forehead",
+        "hands": 1
+    },
+    "home": {
+        "description": "Bring fingertips together and tap chin, then cheek",
+        "handshape": "O-hand",
+        "location": "Face",
+        "hands": 1
+    },
+    "dog": {
+        "description": "Pat thigh, then snap fingers or mimic snapping",
+        "handshape": "S-hand",
+        "location": "Side of body",
+        "hands": 1
+    },
+    "cat": {
+        "description": "Pull imaginary whiskers outward with thumb and index finger",
+        "handshape": "1-hand",
+        "location": "Sides of mouth",
+        "hands": 1
+    },
+    "house": {
+        "description": "Outline a roof and walls with both hands",
+        "handshape": "S-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "want": {
+        "description": "Pull open hands toward yourself with palms facing up",
+        "handshape": "Clawed hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "like": {
+        "description": "Pull thumb and middle finger away from chest, closing them together",
+        "handshape": "S-hand",
+        "location": "Chest",
+        "hands": 1
+    },
+    "dislike": {
+        "description": "Pull thumb and middle finger away from chest, then flick them outward",
+        "handshape": "S-hand",
+        "location": "Chest and forward",
+        "hands": 1
+    },
+    "happy": {
+        "description": "Brush upward on chest with both flat palms in circular motions",
+        "handshape": "Flat palm",
+        "location": "Chest",
+        "hands": 2
+    },
+    "tired": {
+        "description": "Bring bent hands to chest and let them droop down",
+        "handshape": "Bent hand",
+        "location": "Chest",
+        "hands": 1
+    },
+    "sad": {
+        "description": "Drag open hands downward in front of face",
+        "handshape": "Open hand",
+        "location": "Face",
+        "hands": 1
+    },
+    "hurt": {
+        "description": "Point index fingers toward each other and twist slightly",
+        "handshape": "1-hand",
+        "location": "Neutral space in front of body",
+        "hands": 1
+    },
+    "family": {
+        "description": "Form a circle by moving both F-hands from touching to apart",
+        "handshape": "C-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "group": {
+        "description": "Form a circle by moving both G-hands from touching to apart",
+        "handshape": "C-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "stop": {
+        "description": "Bring the edge of one flat hand down onto the palm of the other flat hand",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "go": {
+        "description": "Point index fingers forward and move them outward",
+        "handshape": "1-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "come": {
+        "description": "Point index fingers inward toward your body",
+        "handshape": "1-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "baby": {
+        "description": "Mimic cradling a baby by rocking arms back and forth",
+        "handshape": "Open hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "car": {
+        "description": "Mimic steering a wheel with both hands",
+        "handshape": "S-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "train": {
+        "description": "Rub two H-hands together back and forth",
+        "handshape": "S-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "book": {
+        "description": "Place hands together like a closed book, then open them",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "water": {
+        "description": "Tap chin with index finger of W-hand",
+        "handshape": "1-hand",
+        "location": "Chin",
+        "hands": 1
+    },
+    "food": {
+        "description": "Tap mouth with the tips of fingers on a flattened O-hand",
+        "handshape": "O-hand",
+        "location": "Mouth",
+        "hands": 1
+    },
+    "help": {
+        "description": "Place a thumbs-up handshape on the palm of the other hand and raise upward",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "day": {
+        "description": "Lower the dominant arm horizontally while the non-dominant arm stays upright",
+        "handshape": "1-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "night": {
+        "description": "Curve the dominant hand over the non-dominant hand like a setting sun",
+        "handshape": "Bent hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "sun": {
+        "description": "Make a small circle in the air with an index finger, then open the hand",
+        "handshape": "1-hand",
+        "location": "Above head",
+        "hands": 1
+    },
+    "moon": {
+        "description": "C-hand shape moves in a small arc in the air",
+        "handshape": "C-hand",
+        "location": "Above head",
+        "hands": 1
+    },
+    "tree": {
+        "description": "Place one arm vertically with hand flat and the other arm perpendicular at the elbow, waving the hand",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "flower": {
+        "description": "Touch fingertips of a flattened O-hand to each side of the nose",
+        "handshape": "O-hand",
+        "location": "Nose",
+        "hands": 1
+    },
+    "thank you": {
+        "description": "Flat hand moves forward from the chin",
+        "handshape": "Flat palm",
+        "location": "Chin",
+        "hands": 1
+    },
+    "excuse me": {
+        "description": "Brush fingertips of one hand across the flat palm of the other",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "bathroom": {
+        "description": "Shake a T-hand side to side",
+        "handshape": "S-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "chair": {
+        "description": "Tap dominant H-hand on top of non-dominant H-hand twice",
+        "handshape": "S-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "store": {
+        "description": "Flattened O-hands twist outward repeatedly",
+        "handshape": "O-hand",
+        "location": "Neutral space near shoulders",
+        "hands": 1
+    },
+    "movie": {
+        "description": "Wave dominant open hand behind stationary non-dominant flat hand",
+        "handshape": "Open hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "music": {
+        "description": "Wave flat hand in a horizontal motion over the other arm",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "read": {
+        "description": "Move dominant V-hand downward across a flat non-dominant palm",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "write": {
+        "description": "Mimic writing on a flat palm with an imaginary pen",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "paper": {
+        "description": "Brush flat palms together in opposite directions",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "computer": {
+        "description": "C-hand moves in a circular motion near the dominant shoulder",
+        "handshape": "C-hand",
+        "location": "Near shoulder",
+        "hands": 1
+    },
+    "phone": {
+        "description": "Mimic holding a phone to your ear with a Y-hand",
+        "handshape": "S-hand",
+        "location": "Near ear",
+        "hands": 1
+    },
+    "cold": {
+        "description": "Shake both fists as if shivering",
+        "handshape": "S-hand",
+        "location": "Neutral space near chest",
+        "hands": 2
+    },
+    "hot": {
+        "description": "Clawed hand moves outward from mouth as if releasing heat",
+        "handshape": "Clawed hand",
+        "location": "Mouth",
+        "hands": 1
+    },
+    "exercise": {
+        "description": "Raise fists and mimic lifting weights",
+        "handshape": "S-hand",
+        "location": "Neutral space near shoulders",
+        "hands": 1
+    },
+    "sleep": {
+        "description": "Open hand starts near face, closes into a flattened O-hand while lowering",
+        "handshape": "Open hand",
+        "location": "Face",
+        "hands": 1
+    },
+    "time": {
+        "description": "Tap wrist with index finger of dominant hand",
+        "handshape": "1-hand",
+        "location": "Wrist",
+        "hands": 1
+    },
+    "teacher": {
+        "description": "Flattened O-hands move outward from forehead, then move downward to indicate a person",
+        "handshape": "O-hand",
+        "location": "Forehead and neutral space",
+        "hands": 1
+    },
+    "student": {
+        "description": "Flattened O-hand moves from open palm to head, then gesture downward to indicate a person",
+        "handshape": "Flat palm",
+        "location": "Forehead and neutral space",
+        "hands": 1
+    },
+    "clean": {
+        "description": "Brush flat palms together in one direction",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "waterfall": {
+        "description": "Wave open hand downward to mimic water flowing",
+        "handshape": "Open hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "sky": {
+        "description": "Sweep open hand in an arc above the head",
+        "handshape": "Flat palm",
+        "location": "Above head",
+        "hands": 1
+    },
+    "rain": {
+        "description": "Move open hands downward with fingers wiggling",
+        "handshape": "Open hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "snow": {
+        "description": "Move open hands downward with fluttering fingers",
+        "handshape": "Open hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "laugh": {
+        "description": "Swipe L-hand shape at corners of mouth",
+        "handshape": "S-hand",
+        "location": "Face",
+        "hands": 1
+    },
+    "game": {
+        "description": "Knock both A-hands together with thumbs pointing up",
+        "handshape": "1-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "play": {
+        "description": "Shake both Y-hands side to side",
+        "handshape": "S-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "fun": {
+        "description": "Brush dominant U-hand from nose to tap non-dominant U-hand",
+        "handshape": "S-hand",
+        "location": "Nose and neutral space",
+        "hands": 1
+    },
+    "party": {
+        "description": "Wave both P-hands side to side",
+        "handshape": "Open hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "shoes": {
+        "description": "Tap both S-hands together twice",
+        "handshape": "S-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "clothes": {
+        "description": "Brush thumbs of open hands downward on chest",
+        "handshape": "Open hand",
+        "location": "Chest",
+        "hands": 1
+    },
+    "hat": {
+        "description": "Pat the top of your head with a flat hand",
+        "handshape": "Flat palm",
+        "location": "Top of head",
+        "hands": 1
+    },
+    "hungry": {
+        "description": "Move a C-hand down your chest",
+        "handshape": "C-hand",
+        "location": "Chest",
+        "hands": 1
+    },
+    "full": {
+        "description": "Move a flat hand upward below the chin as if filling up",
+        "handshape": "Flat palm",
+        "location": "Chin",
+        "hands": 1
+    },
+    "fast": {
+        "description": "Pull back both L-hands while curling index fingers",
+        "handshape": "1-hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "slow": {
+        "description": "Drag one flat hand slowly over the back of the other flat hand",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "mountain": {
+        "description": "Clench fists, then move flat hands upward as if forming a peak",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "river": {
+        "description": "Wave both open hands side to side, moving forward",
+        "handshape": "Open hand",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "ocean": {
+        "description": "Wave both flat hands outward to mimic waves",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 2
+    },
+    "bird": {
+        "description": "Mimic a beak by opening and closing a G-hand near the mouth",
+        "handshape": "S-hand",
+        "location": "Mouth",
+        "hands": 1
+    },
+    "fish": {
+        "description": "Move flat hand side to side like a fish swimming",
+        "handshape": "Flat palm",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "bear": {
+        "description": "Cross arms over chest and claw at shoulders",
+        "handshape": "Clawed hand",
+        "location": "Chest",
+        "hands": 1
+    },
+    "butterfly": {
+        "description": "Link thumbs of open hands and flutter fingers like wings",
+        "handshape": "Open hand",
+        "location": "Neutral space in front of chest",
+        "hands": 1
+    },
+    "lion": {
+        "description": "Move a clawed hand back over your head as if stroking a mane",
+        "handshape": "Clawed hand",
+        "location": "Head",
+        "hands": 1
+    },
+    "monkey": {
+        "description": "Scratch underarms with both hands like a monkey",
+        "handshape": "Clawed hand",
+        "location": "Side of body",
+        "hands": 2
+    },
+    "cow": {
+        "description": "Place thumbs of Y-hands on temples and twist them upward",
+        "handshape": "S-hand",
+        "location": "Forehead",
+        "hands": 1
+    },
+    "pig": {
+        "description": "Place flat hand under chin and wiggle fingers",
+        "handshape": "Flat palm",
+        "location": "Chin",
+        "hands": 1
+    },
+    "elephant": {
+        "description": "Mimic a trunk by moving a flat hand outward and down from the nose",
+        "handshape": "Flat palm",
+        "location": "Face",
+        "hands": 1
+    }
+}
