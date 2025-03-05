@@ -1,5 +1,5 @@
 streamlit>=1.42.0
-opencv-python>=4.11.0.86
+opencv-python-headless
 openai>=1.50.2
 requests>=2.31.0
 python-dotenv>=1.0.1
