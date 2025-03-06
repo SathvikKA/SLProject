@@ -20,7 +20,7 @@ st.write("Upload a video of an ASL sign to identify what's being signed!")
 
 # File uploader
 video_file = st.file_uploader("Choose a video file", type=['mp4', 'avi', 'mov'])
-
+st.video(video_file)
 #-----------------------------------------------------------LOAD AND SCAN VIDEO and dataset---------------------------------------------------------------
 def load_asl_database(file_path: str = 'FINAL_ASL.json') -> Dict:
     """Load the ASL database from JSON file"""
