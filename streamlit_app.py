@@ -33,8 +33,11 @@ For Best Results:
     For multi-part signs, record each component separately
 
 Limitations: 
+
     Currently supports single signs, not full sentences or phrases
+    
     Works best with standard ASL signs from common dictionaries
+    
     May have difficulty with regional variations or personalized signing''')
 
 # File uploader
