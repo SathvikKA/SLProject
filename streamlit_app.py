@@ -14,9 +14,9 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 #hello
 
 # Set up Streamlit page config
-st.set_page_config(page_title="ASL Sign Detector", page_icon="👋", layout="wide")
-st.title("ASL Sign Language Detector")
-st.write("Upload a video of an ASL sign to identify what's being signed!")
+st.set_page_config(page_title="ASL Interpreter", page_icon="👋", layout="wide")
+st.title("ASL Interpreter")
+st.write("Upload a video of an ASL sign to identify what's being signed! \n The program will analyze the video you provide and tell you its best interpretation of the sign being performed.")
 
 # File uploader
 video_file = st.file_uploader("Choose a video file", type=['mp4', 'avi', 'mov'])
