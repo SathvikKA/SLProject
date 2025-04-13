@@ -16,7 +16,7 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 # Set up Streamlit page config
 st.set_page_config(page_title="ASL Interpreter", page_icon="👋", layout="wide")
 st.title("ASL Interpreter")
-st.write(['''How to Use the ASL Interpreter
+st.write('''How to Use the ASL Interpreter
 Upload a video of an ASL sign to identify what's being signed! The program will analyze the video you provide and tell you its best interpretation of the sign being performed.
 
 Quick Start Guide:
