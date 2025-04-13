@@ -16,7 +16,24 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 # Set up Streamlit page config
 st.set_page_config(page_title="ASL Interpreter", page_icon="👋", layout="wide")
 st.title("ASL Interpreter")
-st.write("Upload a video of an ASL sign to identify what's being signed! \n The program will analyze the video you provide and tell you its best interpretation of the sign being performed.")
+st.write(['''How to Use the ASL Interpreter
+Upload a video of an ASL sign to identify what's being signed! The program will analyze the video you provide and tell you its best interpretation of the sign being performed.
+
+Quick Start Guide:
+Record or select a video of a single ASL sign (5 seconds or less recommended)
+Upload the video using the "Upload" button below
+Wait for analysis - our AI will process the hand movements and gestures
+View the results showing the most likely ASL sign interpretation
+For Best Results:
+Ensure good lighting with minimal shadows
+Position yourself against a plain background
+Frame the video to show your upper body and hands clearly
+Make deliberate, complete hand movements
+For multi-part signs, record each component separately
+Limitations:
+Currently supports single signs, not full sentences or phrases
+Works best with standard ASL signs from common dictionaries
+May have difficulty with regional variations or personalized signing''')
 
 # File uploader
 video_file = st.file_uploader("Choose a video file", type=['mp4', 'avi', 'mov'])
